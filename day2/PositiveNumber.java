@@ -8,9 +8,9 @@ public class PositiveNumber {
 		
 		if(num < 0)
 		{
-			num = num* -1;
+			int a = num* -1;
 			
-			System.out.println( "-50 is converted to "+num);
+			System.out.println( "-50 is converted to "+a);
 		}
 		
 
